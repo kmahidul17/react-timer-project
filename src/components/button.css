@@ -1,0 +1,43 @@
+.buttons {
+    margin: 0;
+    padding: 0;
+    
+}
+
+.inc-button{
+    background-color: aquamarine;
+    border-radius: 30px;
+    color:rgb(66, 5, 128);
+    width: 300px;
+    height: 50px;
+    box-sizing: border-box;
+    border-style: none;
+    outline-style: none;
+
+    
+}
+
+.dec-button{
+    background-color: aquamarine;
+    border-radius: 30px;
+    margin-left: 0px;
+    color:rgb(66, 5, 128);
+    width: 300px;
+    height: 50px;
+    box-sizing: border-box;
+    border-style: none;
+    outline-style: none;
+    margin-top: 30px;
+    
+    
+}
+.inc-button:hover{
+    background-color: blueviolet;
+    color: aliceblue;
+}
+
+.dec-button:hover{
+    background-color: blueviolet;
+    color: aliceblue;
+
+}
